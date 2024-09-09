@@ -1,0 +1,9 @@
+pandas
+
+scikit-learn
+
+folium
+
+matplotlib
+
+seaborn
